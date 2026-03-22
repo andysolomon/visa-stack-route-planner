@@ -1,0 +1,29 @@
+[ ] Phase 1 - Foundation
+[ ] 1.1 Define traveler profile + passport data model
+[ ] 1.2 Build onboarding flow for travel preferences
+[ ] 1.3 Implement authenticated dashboard shell
+
+[ ] Phase 2 - Visa Rules Model
+[ ] 2.1 Implement country rule schema and storage
+[ ] 2.2 Build rolling-window day counter (Schengen first)
+[ ] 2.3 Add rule ingestion/update workflow
+
+[ ] Phase 3 - Route Planning Engine
+[ ] 3.1 Create itinerary builder UI and state model
+[ ] 3.2 Implement route compliance validator
+[ ] 3.3 Add alternative sequencing suggestions
+
+[ ] Phase 4 - Alerts and Change Tracking
+[ ] 4.1 Add visa deadline reminder system
+[ ] 4.2 Implement policy-change impact checks
+[ ] 4.3 Build itinerary compliance timeline view
+
+[ ] Phase 5 - Monetization and Access
+[ ] 5.1 Define free vs paid feature gates
+[ ] 5.2 Add subscription entitlement middleware
+[ ] 5.3 Build upgrade prompts and plan handling
+
+[ ] Phase 6 - Hardening and Launch
+[ ] 6.1 Add validation for date/rule edge cases
+[ ] 6.2 Expand regression suite for visa calculations
+[ ] 6.3 Final deployment and runbook
