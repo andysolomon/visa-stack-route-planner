@@ -1,5 +1,6 @@
 import {
   boolean,
+  date,
   integer,
   pgTable,
   text,
@@ -49,3 +50,37 @@ export const visaRules = pgTable(
 
 export type VisaRuleRow = typeof visaRules.$inferSelect;
 export type NewVisaRule = typeof visaRules.$inferInsert;
+
+export const travelerProfiles = pgTable("traveler_profiles", {
+  id: uuid("id").defaultRandom().primaryKey(),
+  userId: uuid("user_id")
+    .references(() => users.id)
+    .unique()
+    .notNull(),
+  homeCountry: text("home_country").notNull(),
+  createdAt: timestamp("created_at", { withTimezone: true })
+    .defaultNow()
+    .notNull(),
+  updatedAt: timestamp("updated_at", { withTimezone: true })
+    .defaultNow()
+    .notNull()
+    .$onUpdate(() => new Date()),
+});
+
+export type TravelerProfileRow = typeof travelerProfiles.$inferSelect;
+export type NewTravelerProfile = typeof travelerProfiles.$inferInsert;
+
+export const passports = pgTable("passports", {
+  id: uuid("id").defaultRandom().primaryKey(),
+  profileId: uuid("profile_id")
+    .references(() => travelerProfiles.id, { onDelete: "cascade" })
+    .notNull(),
+  nationality: text("nationality").notNull(),
+  expiryDate: date("expiry_date"),
+  createdAt: timestamp("created_at", { withTimezone: true })
+    .defaultNow()
+    .notNull(),
+});
+
+export type PassportRow = typeof passports.$inferSelect;
+export type NewPassport = typeof passports.$inferInsert;
