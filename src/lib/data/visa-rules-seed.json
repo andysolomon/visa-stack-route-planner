@@ -1,0 +1,2918 @@
+[
+  {
+    "countryCode": "AT",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "AT",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "AT",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "AT",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "AT",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "AT",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "AT",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "AT",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "AT",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "BE",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "BE",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "BE",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "BE",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "BE",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "BE",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "BE",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "BE",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "BE",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HR",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "HR",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "HR",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "HR",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "HR",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HR",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HR",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HR",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HR",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CZ",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "CZ",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "CZ",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "CZ",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "CZ",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CZ",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CZ",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CZ",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CZ",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DK",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "DK",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "DK",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "DK",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "DK",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DK",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DK",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DK",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DK",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "EE",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "EE",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "EE",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "EE",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "EE",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "EE",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "EE",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "EE",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "EE",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FI",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "FI",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "FI",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "FI",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "FI",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FI",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FI",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FI",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FI",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FR",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "FR",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "FR",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "FR",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "FR",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FR",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FR",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FR",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "FR",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DE",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "DE",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "DE",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "DE",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "DE",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DE",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DE",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DE",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "DE",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "GR",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "GR",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "GR",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "GR",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "GR",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "GR",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "GR",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "GR",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "GR",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HU",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "HU",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "HU",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "HU",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "HU",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HU",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HU",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HU",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "HU",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IS",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "IS",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "IS",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "IS",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "IS",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IS",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IS",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IS",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IS",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IT",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "IT",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "IT",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "IT",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "IT",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IT",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IT",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IT",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "IT",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LV",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LV",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LV",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LV",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LV",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LV",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LV",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LV",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LV",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LI",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LI",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LI",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LI",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LI",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LI",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LI",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LI",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LI",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LT",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LT",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LT",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LT",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LT",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LT",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LT",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LT",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LT",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LU",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LU",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LU",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LU",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "LU",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LU",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LU",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LU",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "LU",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "MT",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "MT",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "MT",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "MT",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "MT",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "MT",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "MT",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "MT",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "MT",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NL",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "NL",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "NL",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "NL",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "NL",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NL",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NL",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NL",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NL",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NO",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "NO",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "NO",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "NO",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "NO",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NO",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NO",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NO",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "NO",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PL",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "PL",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "PL",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "PL",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "PL",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PL",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PL",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PL",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PL",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PT",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "PT",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "PT",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "PT",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "PT",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PT",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PT",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PT",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "PT",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SK",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SK",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SK",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SK",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SK",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SK",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SK",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SK",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SK",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SI",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SI",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SI",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SI",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SI",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SI",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SI",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SI",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SI",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "ES",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "ES",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "ES",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "ES",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "ES",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "ES",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "ES",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "ES",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "ES",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SE",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SE",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SE",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SE",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "SE",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SE",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SE",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SE",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "SE",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CH",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "CH",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "CH",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "CH",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "schengen-visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in any 180-day rolling window across entire Schengen zone"
+  },
+  {
+    "countryCode": "CH",
+    "passportNationality": "DE",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CH",
+    "passportNationality": "FR",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CH",
+    "passportNationality": "NL",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CH",
+    "passportNationality": "IT",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "CH",
+    "passportNationality": "ES",
+    "stayLimitDays": -1,
+    "windowDays": null,
+    "visaType": "eu-freedom-of-movement",
+    "requiresVisa": false,
+    "notes": "EU citizen — unlimited stay"
+  },
+  {
+    "countryCode": "TH",
+    "passportNationality": "US",
+    "stayLimitDays": 60,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "60-day visa exemption"
+  },
+  {
+    "countryCode": "TH",
+    "passportNationality": "GB",
+    "stayLimitDays": 60,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "60-day visa exemption"
+  },
+  {
+    "countryCode": "TH",
+    "passportNationality": "AU",
+    "stayLimitDays": 60,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "60-day visa exemption"
+  },
+  {
+    "countryCode": "TH",
+    "passportNationality": "CA",
+    "stayLimitDays": 60,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "60-day visa exemption"
+  },
+  {
+    "countryCode": "TH",
+    "passportNationality": "DE",
+    "stayLimitDays": 60,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "60-day visa exemption"
+  },
+  {
+    "countryCode": "TH",
+    "passportNationality": "FR",
+    "stayLimitDays": 60,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "60-day visa exemption"
+  },
+  {
+    "countryCode": "TH",
+    "passportNationality": "NL",
+    "stayLimitDays": 60,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "60-day visa exemption"
+  },
+  {
+    "countryCode": "TH",
+    "passportNationality": "IT",
+    "stayLimitDays": 60,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "60-day visa exemption"
+  },
+  {
+    "countryCode": "TH",
+    "passportNationality": "ES",
+    "stayLimitDays": 60,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "60-day visa exemption"
+  },
+  {
+    "countryCode": "ID",
+    "passportNationality": "US",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": true,
+    "notes": "30-day visa on arrival, extendable once for 30 days"
+  },
+  {
+    "countryCode": "ID",
+    "passportNationality": "GB",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": true,
+    "notes": "30-day visa on arrival, extendable once for 30 days"
+  },
+  {
+    "countryCode": "ID",
+    "passportNationality": "AU",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": true,
+    "notes": "30-day visa on arrival, extendable once for 30 days"
+  },
+  {
+    "countryCode": "ID",
+    "passportNationality": "CA",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": true,
+    "notes": "30-day visa on arrival, extendable once for 30 days"
+  },
+  {
+    "countryCode": "ID",
+    "passportNationality": "DE",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": true,
+    "notes": "30-day visa on arrival, extendable once for 30 days"
+  },
+  {
+    "countryCode": "ID",
+    "passportNationality": "FR",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": true,
+    "notes": "30-day visa on arrival, extendable once for 30 days"
+  },
+  {
+    "countryCode": "ID",
+    "passportNationality": "NL",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": true,
+    "notes": "30-day visa on arrival, extendable once for 30 days"
+  },
+  {
+    "countryCode": "ID",
+    "passportNationality": "IT",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": true,
+    "notes": "30-day visa on arrival, extendable once for 30 days"
+  },
+  {
+    "countryCode": "ID",
+    "passportNationality": "ES",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": true,
+    "notes": "30-day visa on arrival, extendable once for 30 days"
+  },
+  {
+    "countryCode": "CO",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90 days per 180-day period, extendable"
+  },
+  {
+    "countryCode": "CO",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90 days per 180-day period, extendable"
+  },
+  {
+    "countryCode": "CO",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90 days per 180-day period, extendable"
+  },
+  {
+    "countryCode": "CO",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90 days per 180-day period, extendable"
+  },
+  {
+    "countryCode": "CO",
+    "passportNationality": "DE",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90 days per 180-day period, extendable"
+  },
+  {
+    "countryCode": "CO",
+    "passportNationality": "FR",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90 days per 180-day period, extendable"
+  },
+  {
+    "countryCode": "CO",
+    "passportNationality": "NL",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90 days per 180-day period, extendable"
+  },
+  {
+    "countryCode": "CO",
+    "passportNationality": "IT",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90 days per 180-day period, extendable"
+  },
+  {
+    "countryCode": "CO",
+    "passportNationality": "ES",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90 days per 180-day period, extendable"
+  },
+  {
+    "countryCode": "MX",
+    "passportNationality": "US",
+    "stayLimitDays": 180,
+    "windowDays": null,
+    "visaType": "fmm",
+    "requiresVisa": false,
+    "notes": "180-day FMM tourist permit"
+  },
+  {
+    "countryCode": "MX",
+    "passportNationality": "GB",
+    "stayLimitDays": 180,
+    "windowDays": null,
+    "visaType": "fmm",
+    "requiresVisa": false,
+    "notes": "180-day FMM tourist permit"
+  },
+  {
+    "countryCode": "MX",
+    "passportNationality": "AU",
+    "stayLimitDays": 180,
+    "windowDays": null,
+    "visaType": "fmm",
+    "requiresVisa": false,
+    "notes": "180-day FMM tourist permit"
+  },
+  {
+    "countryCode": "MX",
+    "passportNationality": "CA",
+    "stayLimitDays": 180,
+    "windowDays": null,
+    "visaType": "fmm",
+    "requiresVisa": false,
+    "notes": "180-day FMM tourist permit"
+  },
+  {
+    "countryCode": "MX",
+    "passportNationality": "DE",
+    "stayLimitDays": 180,
+    "windowDays": null,
+    "visaType": "fmm",
+    "requiresVisa": false,
+    "notes": "180-day FMM tourist permit"
+  },
+  {
+    "countryCode": "MX",
+    "passportNationality": "FR",
+    "stayLimitDays": 180,
+    "windowDays": null,
+    "visaType": "fmm",
+    "requiresVisa": false,
+    "notes": "180-day FMM tourist permit"
+  },
+  {
+    "countryCode": "MX",
+    "passportNationality": "NL",
+    "stayLimitDays": 180,
+    "windowDays": null,
+    "visaType": "fmm",
+    "requiresVisa": false,
+    "notes": "180-day FMM tourist permit"
+  },
+  {
+    "countryCode": "MX",
+    "passportNationality": "IT",
+    "stayLimitDays": 180,
+    "windowDays": null,
+    "visaType": "fmm",
+    "requiresVisa": false,
+    "notes": "180-day FMM tourist permit"
+  },
+  {
+    "countryCode": "MX",
+    "passportNationality": "ES",
+    "stayLimitDays": 180,
+    "windowDays": null,
+    "visaType": "fmm",
+    "requiresVisa": false,
+    "notes": "180-day FMM tourist permit"
+  },
+  {
+    "countryCode": "GE",
+    "passportNationality": "US",
+    "stayLimitDays": 365,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "365 days visa-free stay"
+  },
+  {
+    "countryCode": "GE",
+    "passportNationality": "GB",
+    "stayLimitDays": 365,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "365 days visa-free stay"
+  },
+  {
+    "countryCode": "GE",
+    "passportNationality": "AU",
+    "stayLimitDays": 365,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "365 days visa-free stay"
+  },
+  {
+    "countryCode": "GE",
+    "passportNationality": "CA",
+    "stayLimitDays": 365,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "365 days visa-free stay"
+  },
+  {
+    "countryCode": "GE",
+    "passportNationality": "DE",
+    "stayLimitDays": 365,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "365 days visa-free stay"
+  },
+  {
+    "countryCode": "GE",
+    "passportNationality": "FR",
+    "stayLimitDays": 365,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "365 days visa-free stay"
+  },
+  {
+    "countryCode": "GE",
+    "passportNationality": "NL",
+    "stayLimitDays": 365,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "365 days visa-free stay"
+  },
+  {
+    "countryCode": "GE",
+    "passportNationality": "IT",
+    "stayLimitDays": 365,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "365 days visa-free stay"
+  },
+  {
+    "countryCode": "GE",
+    "passportNationality": "ES",
+    "stayLimitDays": 365,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "365 days visa-free stay"
+  },
+  {
+    "countryCode": "TR",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "90 days in 180-day period, e-visa required"
+  },
+  {
+    "countryCode": "TR",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "90 days in 180-day period, e-visa required"
+  },
+  {
+    "countryCode": "TR",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "90 days in 180-day period, e-visa required"
+  },
+  {
+    "countryCode": "TR",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "90 days in 180-day period, e-visa required"
+  },
+  {
+    "countryCode": "TR",
+    "passportNationality": "DE",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in 180-day period, visa-exempt for EU citizens"
+  },
+  {
+    "countryCode": "TR",
+    "passportNationality": "FR",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in 180-day period, visa-exempt for EU citizens"
+  },
+  {
+    "countryCode": "TR",
+    "passportNationality": "NL",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in 180-day period, visa-exempt for EU citizens"
+  },
+  {
+    "countryCode": "TR",
+    "passportNationality": "IT",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in 180-day period, visa-exempt for EU citizens"
+  },
+  {
+    "countryCode": "TR",
+    "passportNationality": "ES",
+    "stayLimitDays": 90,
+    "windowDays": 180,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90 days in 180-day period, visa-exempt for EU citizens"
+  },
+  {
+    "countryCode": "AE",
+    "passportNationality": "US",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": false,
+    "notes": "30-day visa on arrival, extendable"
+  },
+  {
+    "countryCode": "AE",
+    "passportNationality": "GB",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": false,
+    "notes": "30-day visa on arrival, extendable"
+  },
+  {
+    "countryCode": "AE",
+    "passportNationality": "AU",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": false,
+    "notes": "30-day visa on arrival"
+  },
+  {
+    "countryCode": "AE",
+    "passportNationality": "CA",
+    "stayLimitDays": 30,
+    "windowDays": null,
+    "visaType": "visa-on-arrival",
+    "requiresVisa": false,
+    "notes": "30-day visa on arrival"
+  },
+  {
+    "countryCode": "AE",
+    "passportNationality": "DE",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay for EU citizens"
+  },
+  {
+    "countryCode": "AE",
+    "passportNationality": "FR",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay for EU citizens"
+  },
+  {
+    "countryCode": "AE",
+    "passportNationality": "NL",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay for EU citizens"
+  },
+  {
+    "countryCode": "AE",
+    "passportNationality": "IT",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay for EU citizens"
+  },
+  {
+    "countryCode": "AE",
+    "passportNationality": "ES",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-exempt",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay for EU citizens"
+  },
+  {
+    "countryCode": "JP",
+    "passportNationality": "US",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay"
+  },
+  {
+    "countryCode": "JP",
+    "passportNationality": "GB",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay"
+  },
+  {
+    "countryCode": "JP",
+    "passportNationality": "AU",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay"
+  },
+  {
+    "countryCode": "JP",
+    "passportNationality": "CA",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay"
+  },
+  {
+    "countryCode": "JP",
+    "passportNationality": "DE",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay"
+  },
+  {
+    "countryCode": "JP",
+    "passportNationality": "FR",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay"
+  },
+  {
+    "countryCode": "JP",
+    "passportNationality": "NL",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay"
+  },
+  {
+    "countryCode": "JP",
+    "passportNationality": "IT",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay"
+  },
+  {
+    "countryCode": "JP",
+    "passportNationality": "ES",
+    "stayLimitDays": 90,
+    "windowDays": null,
+    "visaType": "visa-free",
+    "requiresVisa": false,
+    "notes": "90-day visa-free stay"
+  },
+  {
+    "countryCode": "VN",
+    "passportNationality": "US",
+    "stayLimitDays": 45,
+    "windowDays": null,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "45-day e-visa, single entry"
+  },
+  {
+    "countryCode": "VN",
+    "passportNationality": "GB",
+    "stayLimitDays": 45,
+    "windowDays": null,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "45-day e-visa, single entry"
+  },
+  {
+    "countryCode": "VN",
+    "passportNationality": "AU",
+    "stayLimitDays": 45,
+    "windowDays": null,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "45-day e-visa, single entry"
+  },
+  {
+    "countryCode": "VN",
+    "passportNationality": "CA",
+    "stayLimitDays": 45,
+    "windowDays": null,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "45-day e-visa, single entry"
+  },
+  {
+    "countryCode": "VN",
+    "passportNationality": "DE",
+    "stayLimitDays": 45,
+    "windowDays": null,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "45-day e-visa, single entry"
+  },
+  {
+    "countryCode": "VN",
+    "passportNationality": "FR",
+    "stayLimitDays": 45,
+    "windowDays": null,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "45-day e-visa, single entry"
+  },
+  {
+    "countryCode": "VN",
+    "passportNationality": "NL",
+    "stayLimitDays": 45,
+    "windowDays": null,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "45-day e-visa, single entry"
+  },
+  {
+    "countryCode": "VN",
+    "passportNationality": "IT",
+    "stayLimitDays": 45,
+    "windowDays": null,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "45-day e-visa, single entry"
+  },
+  {
+    "countryCode": "VN",
+    "passportNationality": "ES",
+    "stayLimitDays": 45,
+    "windowDays": null,
+    "visaType": "e-visa",
+    "requiresVisa": true,
+    "notes": "45-day e-visa, single entry"
+  }
+]
