@@ -8,6 +8,13 @@
       "when": 1774363287484,
       "tag": "0000_mysterious_reavers",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1774363793968,
+      "tag": "0001_natural_wilson_fisk",
+      "breakpoints": true
     }
   ]
 }
