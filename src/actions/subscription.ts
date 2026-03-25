@@ -55,3 +55,29 @@ export async function createCheckoutSession(): Promise<{ url: string }> {
 
   return { url: session.url };
 }
+
+export async function createPortalSession(): Promise<{ url: string }> {
+  const { userId: clerkId } = await auth();
+  if (!clerkId) throw new Error("Unauthorized");
+
+  const [user] = await db
+    .select()
+    .from(users)
+    .where(eq(users.clerkId, clerkId))
+    .limit(1);
+  if (!user) throw new Error("User not found");
+
+  const [sub] = await db
+    .select()
+    .from(subscriptions)
+    .where(eq(subscriptions.userId, user.id))
+    .limit(1);
+  if (!sub) throw new Error("No subscription found");
+
+  const session = await stripe.billingPortal.sessions.create({
+    customer: sub.stripeCustomerId,
+    return_url: `${process.env.NEXT_PUBLIC_APP_URL}/settings/billing`,
+  });
+
+  return { url: session.url };
+}
