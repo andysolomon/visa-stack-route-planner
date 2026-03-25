@@ -10,6 +10,8 @@ import { RouteMap } from "@/components/map/route-map";
 import { ItineraryHeader } from "@/components/planner/itinerary-header";
 import { AddDestination } from "@/components/planner/add-destination";
 import { LegList } from "@/components/planner/leg-list";
+import { CompliancePanel } from "@/components/planner/compliance-panel";
+import { checkCompliance } from "@/actions/compliance";
 
 export default async function PlannerDetailPage({
   params,
@@ -60,6 +62,8 @@ export default async function PlannerDetailPage({
     sortOrder: l.sortOrder,
   }));
 
+  const compliance = legs.length > 0 ? await checkCompliance(itinerary.id) : null;
+
   return (
     <div className="flex h-[calc(100vh-4rem)] flex-col md:flex-row">
       <aside className="w-full md:w-96 overflow-y-auto border-r p-4 space-y-4">
@@ -74,9 +78,13 @@ export default async function PlannerDetailPage({
           legs={listLegs}
           countries={countries}
         />
+        <CompliancePanel compliance={compliance} />
       </aside>
       <div className="flex-1 min-h-[300px]">
-        <RouteMap legs={mapLegs} />
+        <RouteMap
+          legs={mapLegs}
+          compliancePerCountry={compliance?.perCountry}
+        />
       </div>
     </div>
   );
