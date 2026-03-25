@@ -124,3 +124,21 @@ export const tripLegs = pgTable("trip_legs", {
 
 export type TripLegRow = typeof tripLegs.$inferSelect;
 export type NewTripLeg = typeof tripLegs.$inferInsert;
+
+export const subscriptions = pgTable("subscriptions", {
+  id: uuid("id").defaultRandom().primaryKey(),
+  userId: uuid("user_id")
+    .references(() => users.id)
+    .notNull(),
+  stripeCustomerId: text("stripe_customer_id").notNull(),
+  stripeSubscriptionId: text("stripe_subscription_id").unique().notNull(),
+  status: text("status").notNull().default("active"),
+  currentPeriodEnd: timestamp("current_period_end", { withTimezone: true })
+    .notNull(),
+  createdAt: timestamp("created_at", { withTimezone: true })
+    .defaultNow()
+    .notNull(),
+});
+
+export type SubscriptionRow = typeof subscriptions.$inferSelect;
+export type NewSubscription = typeof subscriptions.$inferInsert;
