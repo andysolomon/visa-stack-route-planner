@@ -11,6 +11,7 @@ import { ItineraryHeader } from "@/components/planner/itinerary-header";
 import { AddDestination } from "@/components/planner/add-destination";
 import { LegList } from "@/components/planner/leg-list";
 import { CompliancePanel } from "@/components/planner/compliance-panel";
+import { TimelineView } from "@/components/planner/timeline-view";
 import { checkCompliance } from "@/actions/compliance";
 
 export default async function PlannerDetailPage({
@@ -80,11 +81,19 @@ export default async function PlannerDetailPage({
         />
         <CompliancePanel compliance={compliance} />
       </aside>
-      <div className="flex-1 min-h-[300px]">
-        <RouteMap
-          legs={mapLegs}
-          compliancePerCountry={compliance?.perCountry}
-        />
+      <div className="flex-1 min-h-[300px] flex flex-col">
+        <div className="flex-1">
+          <RouteMap
+            legs={mapLegs}
+            compliancePerCountry={compliance?.perCountry}
+          />
+        </div>
+        {listLegs.length > 0 && (
+          <div className="border-t p-4">
+            <h3 className="text-sm font-medium mb-2">Timeline</h3>
+            <TimelineView legs={listLegs} compliance={compliance} />
+          </div>
+        )}
       </div>
     </div>
   );
