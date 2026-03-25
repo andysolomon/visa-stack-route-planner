@@ -1,8 +1,19 @@
-/**
- * Check if a user has an active subscription.
- * Currently stubbed to return false for all users.
- * TODO: W-000021 Stripe integration
- */
-export async function isSubscribed(_userId: string): Promise<boolean> {
-  return false;
+import { and, eq, gt } from "drizzle-orm";
+import { db } from "@/lib/db";
+import { subscriptions } from "@/lib/db/schema";
+
+export async function isSubscribed(userId: string): Promise<boolean> {
+  const [sub] = await db
+    .select()
+    .from(subscriptions)
+    .where(
+      and(
+        eq(subscriptions.userId, userId),
+        eq(subscriptions.status, "active"),
+        gt(subscriptions.currentPeriodEnd, new Date())
+      )
+    )
+    .limit(1);
+
+  return !!sub;
 }
