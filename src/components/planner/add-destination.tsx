@@ -1,8 +1,9 @@
 "use client";
 
-import { useTransition } from "react";
+import { useState, useTransition } from "react";
 import { useRouter } from "next/navigation";
 import { addLeg } from "@/actions/itinerary";
+import { UpgradePrompt } from "@/components/upgrade-prompt";
 import {
   Select,
   SelectContent,
@@ -22,6 +23,7 @@ interface AddDestinationProps {
 export function AddDestination({ itineraryId, countries }: AddDestinationProps) {
   const router = useRouter();
   const [isPending, startTransition] = useTransition();
+  const [upgradeNeeded, setUpgradeNeeded] = useState(false);
 
   function handleSelect(code: string | null) {
     if (!code) return;
@@ -45,24 +47,31 @@ export function AddDestination({ itineraryId, countries }: AddDestinationProps) 
         });
         router.refresh();
       } catch (err) {
-        // Free-tier limit or other error — could show a toast
-        console.error(err);
+        const msg = err instanceof Error ? err.message : "";
+        if (msg.includes("Upgrade")) {
+          setUpgradeNeeded(true);
+        } else {
+          console.error(err);
+        }
       }
     });
   }
 
   return (
-    <Select onValueChange={handleSelect} disabled={isPending} value="">
-      <SelectTrigger>
-        <SelectValue placeholder={isPending ? "Adding..." : "Add destination..."} />
-      </SelectTrigger>
-      <SelectContent>
-        {countries.map((c) => (
-          <SelectItem key={c.code} value={c.code}>
-            {c.name}
-          </SelectItem>
-        ))}
-      </SelectContent>
-    </Select>
+    <div className="space-y-2">
+      <Select onValueChange={(val) => { setUpgradeNeeded(false); handleSelect(val); }} disabled={isPending} value="">
+        <SelectTrigger>
+          <SelectValue placeholder={isPending ? "Adding..." : "Add destination..."} />
+        </SelectTrigger>
+        <SelectContent>
+          {countries.map((c) => (
+            <SelectItem key={c.code} value={c.code}>
+              {c.name}
+            </SelectItem>
+          ))}
+        </SelectContent>
+      </Select>
+      {upgradeNeeded && <UpgradePrompt />}
+    </div>
   );
 }
