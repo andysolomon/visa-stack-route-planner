@@ -15,6 +15,13 @@
       "when": 1774363793968,
       "tag": "0001_natural_wilson_fisk",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1774397121401,
+      "tag": "0002_mature_the_fury",
+      "breakpoints": true
     }
   ]
 }

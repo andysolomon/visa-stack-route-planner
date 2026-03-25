@@ -3,6 +3,7 @@ import {
   date,
   integer,
   pgTable,
+  real,
   text,
   timestamp,
   uniqueIndex,
@@ -84,3 +85,42 @@ export const passports = pgTable("passports", {
 
 export type PassportRow = typeof passports.$inferSelect;
 export type NewPassport = typeof passports.$inferInsert;
+
+export const itineraries = pgTable("itineraries", {
+  id: uuid("id").defaultRandom().primaryKey(),
+  userId: uuid("user_id")
+    .references(() => users.id)
+    .notNull(),
+  name: text("name").notNull(),
+  status: text("status").notNull().default("draft"),
+  createdAt: timestamp("created_at", { withTimezone: true })
+    .defaultNow()
+    .notNull(),
+  updatedAt: timestamp("updated_at", { withTimezone: true })
+    .defaultNow()
+    .notNull()
+    .$onUpdate(() => new Date()),
+});
+
+export type ItineraryRow = typeof itineraries.$inferSelect;
+export type NewItinerary = typeof itineraries.$inferInsert;
+
+export const tripLegs = pgTable("trip_legs", {
+  id: uuid("id").defaultRandom().primaryKey(),
+  itineraryId: uuid("itinerary_id")
+    .references(() => itineraries.id, { onDelete: "cascade" })
+    .notNull(),
+  countryCode: text("country_code").notNull(),
+  city: text("city"),
+  arrivalDate: date("arrival_date").notNull(),
+  departureDate: date("departure_date").notNull(),
+  sortOrder: integer("sort_order").notNull(),
+  lat: real("lat"),
+  lng: real("lng"),
+  createdAt: timestamp("created_at", { withTimezone: true })
+    .defaultNow()
+    .notNull(),
+});
+
+export type TripLegRow = typeof tripLegs.$inferSelect;
+export type NewTripLeg = typeof tripLegs.$inferInsert;
