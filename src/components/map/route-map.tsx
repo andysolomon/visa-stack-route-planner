@@ -14,8 +14,14 @@ interface Leg {
   lng: number | null;
 }
 
+interface ComplianceStatus {
+  countryCode: string;
+  status: "compliant" | "violation" | "warning";
+}
+
 interface RouteMapProps {
   legs: Leg[];
+  compliancePerCountry?: ComplianceStatus[];
 }
 
 const coords = countryCoords as unknown as Record<string, [number, number]>;
@@ -25,7 +31,28 @@ function getLegCoords(leg: Leg): [number, number] | null {
   return coords[leg.countryCode] ?? null;
 }
 
-export function RouteMap({ legs }: RouteMapProps) {
+function getMarkerColor(
+  countryCode: string,
+  compliancePerCountry?: ComplianceStatus[]
+): string {
+  if (!compliancePerCountry) return "bg-primary";
+  const status = compliancePerCountry.find(
+    (c) => c.countryCode === countryCode
+  );
+  if (!status) return "bg-primary";
+  switch (status.status) {
+    case "violation":
+      return "bg-red-500";
+    case "warning":
+      return "bg-yellow-500";
+    case "compliant":
+      return "bg-green-500";
+    default:
+      return "bg-primary";
+  }
+}
+
+export function RouteMap({ legs, compliancePerCountry }: RouteMapProps) {
   const routeGeoJSON = useMemo(() => {
     const points = legs
       .map(getLegCoords)
@@ -77,7 +104,7 @@ export function RouteMap({ legs }: RouteMapProps) {
         if (!c) return null;
         return (
           <Marker key={leg.id} longitude={c[0]} latitude={c[1]} anchor="center">
-            <div className="flex h-7 w-7 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground shadow-md">
+            <div className={`flex h-7 w-7 items-center justify-center rounded-full ${getMarkerColor(leg.countryCode, compliancePerCountry)} text-xs font-bold text-white shadow-md`}>
               {leg.sortOrder + 1}
             </div>
           </Marker>
