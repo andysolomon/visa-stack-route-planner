@@ -6,6 +6,7 @@ import { db } from "@/lib/db";
 import { users, subscriptions } from "@/lib/db/schema";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
+import { ManageButton } from "./manage-button";
 import {
   Card,
   CardContent,
@@ -53,9 +54,7 @@ export default async function BillingPage() {
         </CardHeader>
         <CardContent className="space-y-4">
           {isActive ? (
-            <Button variant="outline" disabled>
-              Manage Subscription (coming soon)
-            </Button>
+            <ManageButton />
           ) : (
             <Button render={<Link href="/pricing" />}>Upgrade to Pro</Button>
           )}
