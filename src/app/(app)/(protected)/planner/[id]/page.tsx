@@ -12,6 +12,7 @@ import { AddDestination } from "@/components/planner/add-destination";
 import { LegList } from "@/components/planner/leg-list";
 import { CompliancePanel } from "@/components/planner/compliance-panel";
 import { TimelineView } from "@/components/planner/timeline-view";
+import { AISuggestionsPanel } from "@/components/planner/ai-suggestions-panel";
 import { checkCompliance } from "@/actions/compliance";
 
 export default async function PlannerDetailPage({
@@ -80,6 +81,10 @@ export default async function PlannerDetailPage({
           countries={countries}
         />
         <CompliancePanel compliance={compliance} />
+        <AISuggestionsPanel
+          itineraryId={itinerary.id}
+          isCompliant={compliance?.overall.isCompliant ?? true}
+        />
       </aside>
       <div className="flex-1 min-h-[300px] flex flex-col">
         <div className="flex-1">

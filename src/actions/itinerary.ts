@@ -221,3 +221,36 @@ export async function reorderLegs(input: {
     }
   });
 }
+
+export async function replaceAllLegs(input: {
+  itineraryId: string;
+  legs: Array<{
+    countryCode: string;
+    arrivalDate: string;
+    departureDate: string;
+  }>;
+}) {
+  const user = await getAuthenticatedUser();
+
+  await verifyItineraryOwnership(input.itineraryId, user.id);
+
+  await db.transaction(async (tx) => {
+    // Delete all existing legs
+    await tx
+      .delete(tripLegs)
+      .where(eq(tripLegs.itineraryId, input.itineraryId));
+
+    // Insert new legs with sequential sortOrder
+    if (input.legs.length > 0) {
+      await tx.insert(tripLegs).values(
+        input.legs.map((leg, i) => ({
+          itineraryId: input.itineraryId,
+          countryCode: leg.countryCode,
+          arrivalDate: leg.arrivalDate,
+          departureDate: leg.departureDate,
+          sortOrder: i,
+        }))
+      );
+    }
+  });
+}
