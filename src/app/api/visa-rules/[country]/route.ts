@@ -1,5 +1,6 @@
 import { type NextRequest } from "next/server";
 import { getVisaRule } from "@/lib/visa/lookup";
+import { rateLimit } from "@/lib/rate-limit";
 
 const isAlpha2 = (s: string) => /^[A-Za-z]{2}$/.test(s);
 
@@ -8,6 +9,16 @@ export async function GET(
   { params }: { params: Promise<{ country: string }> }
 ) {
   const { country } = await params;
+
+  // Rate limit by IP
+  const ip = request.headers.get("x-forwarded-for")?.split(",")[0] ?? "unknown";
+  const limit = rateLimit(ip);
+  if (!limit.success) {
+    return Response.json(
+      { error: "Too many requests" },
+      { status: 429, headers: { "Retry-After": "60" } }
+    );
+  }
 
   if (!isAlpha2(country)) {
     return Response.json(
