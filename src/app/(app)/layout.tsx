@@ -4,6 +4,7 @@ import { syncUser } from "@/lib/auth/sync-user";
 import { SidebarProvider } from "@/components/ui/sidebar";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { AppSidebar } from "@/components/app-sidebar";
+import { NotificationBell } from "@/components/notification-bell";
 
 export default async function AppLayout({
   children,
@@ -25,7 +26,12 @@ export default async function AppLayout({
     <TooltipProvider>
       <SidebarProvider defaultOpen>
         <AppSidebar />
-        <main className="flex-1 overflow-auto">{children}</main>
+        <div className="flex-1 flex flex-col overflow-auto">
+          <header className="flex items-center justify-end border-b px-4 py-2">
+            <NotificationBell />
+          </header>
+          <main className="flex-1 overflow-auto">{children}</main>
+        </div>
       </SidebarProvider>
     </TooltipProvider>
   );

@@ -142,3 +142,19 @@ export const subscriptions = pgTable("subscriptions", {
 
 export type SubscriptionRow = typeof subscriptions.$inferSelect;
 export type NewSubscription = typeof subscriptions.$inferInsert;
+
+export const notifications = pgTable("notifications", {
+  id: uuid("id").defaultRandom().primaryKey(),
+  userId: uuid("user_id")
+    .references(() => users.id)
+    .notNull(),
+  type: text("type").notNull(),
+  message: text("message").notNull(),
+  readAt: timestamp("read_at", { withTimezone: true }),
+  createdAt: timestamp("created_at", { withTimezone: true })
+    .defaultNow()
+    .notNull(),
+});
+
+export type NotificationRow = typeof notifications.$inferSelect;
+export type NewNotification = typeof notifications.$inferInsert;
