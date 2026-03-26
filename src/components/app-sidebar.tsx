@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { UserButton } from "@clerk/nextjs";
-import { LayoutDashboard, Map, ListChecks, Bell, Settings } from "lucide-react";
+import { LayoutDashboard, Map, ListChecks, Bell, Shield, Settings } from "lucide-react";
 import {
   Sidebar,
   SidebarContent,
@@ -21,6 +21,7 @@ const navItems = [
   { title: "Planner", href: "/planner", icon: Map },
   { title: "Itineraries", href: "/itineraries", icon: ListChecks },
   { title: "Notifications", href: "/notifications", icon: Bell },
+  { title: "Visa Rules", href: "/admin/visa-rules", icon: Shield },
   { title: "Settings", href: "/settings", icon: Settings },
 ];
 
