@@ -1,4 +1,5 @@
 import { z } from "zod/v4";
+import { isValidCountryCode } from "./countries";
 
 export const createItinerarySchema = z.object({
   name: z.string().min(1).max(100),
@@ -17,7 +18,9 @@ export const deleteItinerarySchema = z.object({
 export const addLegSchema = z
   .object({
     itineraryId: z.guid(),
-    countryCode: z.string().length(2),
+    countryCode: z.string().length(2).refine(isValidCountryCode, {
+      message: "Unsupported country code",
+    }),
     arrivalDate: z.iso.date(),
     departureDate: z.iso.date(),
     city: z.string().optional(),
