@@ -158,3 +158,19 @@ export const notifications = pgTable("notifications", {
 
 export type NotificationRow = typeof notifications.$inferSelect;
 export type NewNotification = typeof notifications.$inferInsert;
+
+export const visaRuleChanges = pgTable("visa_rule_changes", {
+  id: uuid("id").defaultRandom().primaryKey(),
+  ruleId: uuid("rule_id")
+    .references(() => visaRules.id)
+    .notNull(),
+  field: text("field").notNull(),
+  oldValue: text("old_value").notNull(),
+  newValue: text("new_value").notNull(),
+  changedAt: timestamp("changed_at", { withTimezone: true })
+    .defaultNow()
+    .notNull(),
+});
+
+export type VisaRuleChangeRow = typeof visaRuleChanges.$inferSelect;
+export type NewVisaRuleChange = typeof visaRuleChanges.$inferInsert;

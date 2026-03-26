@@ -36,6 +36,13 @@
       "when": 1774537891530,
       "tag": "0004_volatile_terrax",
       "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1774538100337,
+      "tag": "0005_petite_wallow",
+      "breakpoints": true
     }
   ]
 }
