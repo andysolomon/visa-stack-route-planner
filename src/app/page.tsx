@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { Map, Shield, Sparkles, Check } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -35,6 +36,7 @@ export default function LandingPage() {
     <div className="flex flex-col min-h-screen">
       {/* Hero */}
       <section className="flex flex-col items-center justify-center px-6 py-24 md:py-32 text-center">
+        <Image src="/logo.svg" alt="Visa Stack" width={64} height={64} className="mb-6" />
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight max-w-3xl">
           Plan visa-compliant travel routes
         </h1>

@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Visa Stack Route Planner",
   description: "Plan visa-compliant travel routes for digital nomads",
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({

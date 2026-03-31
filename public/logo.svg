@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <!-- Globe circle -->
+  <circle cx="24" cy="24" r="20" stroke="#a1a1aa" stroke-width="1.5" fill="none"/>
+  <!-- Latitude lines -->
+  <ellipse cx="24" cy="24" rx="20" ry="8" stroke="#a1a1aa" stroke-width="0.75" fill="none"/>
+  <ellipse cx="24" cy="24" rx="20" ry="14" stroke="#a1a1aa" stroke-width="0.75" fill="none"/>
+  <!-- Longitude line -->
+  <ellipse cx="24" cy="24" rx="8" ry="20" stroke="#a1a1aa" stroke-width="0.75" fill="none"/>
+  <!-- Route path (the "V" for Visa Stack) -->
+  <path d="M14 14 L24 34 L34 14" stroke="#3b82f6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Route dots -->
+  <circle cx="14" cy="14" r="2.5" fill="#3b82f6"/>
+  <circle cx="24" cy="34" r="2.5" fill="#22c55e"/>
+  <circle cx="34" cy="14" r="2.5" fill="#3b82f6"/>
+</svg>
